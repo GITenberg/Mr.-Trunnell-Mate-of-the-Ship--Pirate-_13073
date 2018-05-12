@@ -13,6 +13,8 @@ creator:
     gutenberg_agent_id: '4817'
     url: http://www.gutenberg.org/2009/agents/4817
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/13073#Mr.-Trunnell-Mate-of-the-Ship--Pirate-
 gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
 gutenberg_issued: '2004-08-01'
 gutenberg_type: Text
