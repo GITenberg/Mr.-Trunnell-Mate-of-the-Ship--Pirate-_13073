@@ -1,0 +1,29 @@
+_repo: Mr.-Trunnell-Mate-of-the-Ship--Pirate-_13073
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Hains, T. Jenkins (Thornton Jenkins)
+    aliases:
+    - Hains, Thornton Jenkins
+    - Garnett, Mayn Clew
+    birthdate: 1866
+    gutenberg_agent_id: '4817'
+    url: http://www.gutenberg.org/2009/agents/4817
+description: ''
+gutenberg_bookshelf: Pirates, Buccaneers, Corsairs, etc.
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13073'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Sea stories'
+- !lcc 'PS'
+title: Mr. Trunnell, Mate of the Ship "Pirate"
+url: http://www.gutenberg.org/ebooks/13073
